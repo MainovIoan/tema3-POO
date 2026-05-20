@@ -33,4 +33,5 @@ In main am demonstrat tot pe rand. Am creat persoanele prin Factory, am adaugat 
 ## Bibliografie
 
 https://refactoring.guru/design-patterns
+
 https://cppreference.com
